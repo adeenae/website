@@ -18,13 +18,13 @@ HerStack is three things working together:
 - **AI Concepts Visualized** — Machine learning, neural networks, LLMs — explained through illustrated storyboards that anyone can understand.
 - **Women Mentors** — Real women working in AI across India's top companies and startups, with their LinkedIn profiles so girls can see what the path looks like.
 
-And coming in 2026: **HerStack Summer of AI** — an open source program where girls contribute to real AI projects, get paired with women mentors, and earn a certificate.
+[//]: # (And coming in 2026: **HerStack Summer of AI** — an open source program where girls contribute to real AI projects, get paired with women mentors, and earn a certificate.)
 
 ---
 
 ## Live Site
 
-🌐 [herstack.org.in](https://herstack.org.in)
+🌐 [herstack.org](https://herstack.org.in)
 
 ---
 
@@ -117,11 +117,14 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide. Quick summary:
 
 ---
 
-## GirlScript Summer of Code
+[//]: # ()
+[//]: # (## GirlScript Summer of Code)
 
-This project is registered with **GirlScript Summer of Code (GSSoC)**. If you're a GSSoC participant, check our issues for tasks labeled `gssoc`.
+[//]: # ()
+[//]: # (This project is registered with **GirlScript Summer of Code &#40;GSSoC&#41;**. If you're a GSSoC participant, check our issues for tasks labeled `gssoc`.)
 
----
+[//]: # ()
+[//]: # (---)
 
 ## Community
 
