@@ -45,7 +45,7 @@ Never set up a web project before? No worries — this guide walks you through e
 
 **Forking** means making your own copy of HerStack on GitHub so you can make changes without affecting the main project.
 
-1. Go to [github.com/herstack/website](https://github.com/herstack/website)
+1. Go to [github.com/HerStack-org/website](https://github.com/HerStack-org/website)
 2. Click the **Fork** button in the top right
 3. Click **Create fork**
 
@@ -187,14 +187,14 @@ Another app is using that port. Vite will automatically try the next port (5174)
 Hard-refresh your browser with `Ctrl+Shift+R` (or `Cmd+Shift+R` on Mac).
 
 **Still stuck?**
-Open a [GitHub Discussion](https://github.com/herstack/website/discussions) or email us at **hey@herstack.org** — we're happy to help. No question is too basic.
+Open a [GitHub Discussion](https://github.com/HerStack-org/website/discussions) or email us at **hey@herstack.org** — we're happy to help. No question is too basic.
 
 ---
 
 ## Next steps
 
 - Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution guide
-- Check [open issues](https://github.com/herstack/website/issues) for things labeled `good first issue`
-- Join the conversation in [GitHub Discussions](https://github.com/herstack/website/discussions)
+- Check [open issues](https://github.com/HerStack-org/website/issues) for things labeled `good first issue`
+- Join the conversation in [GitHub Discussions](https://github.com/HerStack-org/website/discussions)
 
 You've got this. 💜

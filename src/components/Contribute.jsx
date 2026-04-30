@@ -48,7 +48,7 @@ export default function Contribute() {
             Everything lives on GitHub. Good first issues are labeled and waiting. No contribution is too small — a typo fix counts.
           </p>
           <a
-            href="https://github.com/herstack"
+            href="https://github.com/HerStack-org/website"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full font-semibold no-underline transition-all duration-200"

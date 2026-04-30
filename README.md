@@ -47,7 +47,7 @@ HerStack is three things working together:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/herstack/website.git
+git clone https://github.com/HerStack-org/website
 cd website
 
 # 2. Install dependencies
@@ -136,7 +136,7 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide. Quick summary:
 
 ## License
 
-MIT © [HerStack](https://herstack.org.in)
+MIT © [HerStack](https://herstack.org)
 
 This project is free and open source. Use it, fork it, build on it.
 

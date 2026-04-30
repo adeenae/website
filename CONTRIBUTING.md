@@ -115,7 +115,7 @@ Use these commit prefixes:
    ```bash
    git push origin your-branch-name
    ```
-2. Go to the [HerStack website repo](https://github.com/herstack/website) on GitHub
+2. Go to the [HerStack website repo](https://github.com/HerStack-org/website) on GitHub
 3. Click **"Compare & pull request"**
 4. Fill in the PR template:
    - What did you change?
