@@ -1,0 +1,15 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>HerStack</title>
+  <desc>HerStack logo — three upward chevrons in purple alongside the wordmark</desc>
+
+  <!-- bottom chevron — faded -->
+  <path d="M22 62 L0 78 L5 84 L22 71 L39 84 L44 78 Z" fill="#7B5CF0" opacity="0.3" transform="translate(0,-20)"/>
+  <!-- middle chevron -->
+  <path d="M22 44 L0 60 L5 66 L22 53 L39 66 L44 60 Z" fill="#7B5CF0" opacity="0.6" transform="translate(0,-20)"/>
+  <!-- top chevron — full opacity -->
+  <path d="M22 26 L0 42 L5 48 L22 35 L39 48 L44 42 Z" fill="#7B5CF0" opacity="1" transform="translate(0,-20)"/>
+
+  <!-- Wordmark -->
+  <text x="58" y="36" font-family="Georgia, serif" font-size="26" font-weight="500" fill="#0D0D0D">Her<tspan fill="#7B5CF0">Stack</tspan></text>
+  <text x="59" y="52" font-family="Arial, sans-serif" font-size="9" fill="#888888" letter-spacing="1.5">GIRLS IN AI · INDIA</text>
+</svg>

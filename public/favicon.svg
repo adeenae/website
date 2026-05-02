@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- bottom chevron -->
+  <path d="M16 28 L2 38 L5 42 L16 34 L27 42 L30 38 Z" fill="#7B5CF0" opacity="0.3" transform="translate(0,-14)"/>
+  <!-- middle chevron -->
+  <path d="M16 20 L2 30 L5 34 L16 26 L27 34 L30 30 Z" fill="#7B5CF0" opacity="0.6" transform="translate(0,-14)"/>
+  <!-- top chevron -->
+  <path d="M16 12 L2 22 L5 26 L16 18 L27 26 L30 22 Z" fill="#7B5CF0" opacity="1" transform="translate(0,-14)"/>
+</svg>
